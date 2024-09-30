@@ -1,0 +1,8 @@
+donkey  hai tuu donkey  samjaa ki nahi donkey  hai 
+yai line mai donky likha hai joo baad mai # ho jiaga
+practise no. 5 kaa change yaha par hoga 
+donkey ---> d0nkey...
+hlo ---> hello ...
+check ---> chEck..  
+uper yai teen words change ho jaigai using problem no 5 
+after run the program plzz press the ctrl + z 
